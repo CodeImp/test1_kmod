@@ -1,7 +1,7 @@
 #
 # veeamsnap kernel module make file
 #
-KERNEL_MODULE_NAME := test1
+KERNEL_MODULE_NAME := test1_kmod
 
 KERNEL_MODULE_OBJECT_FILE_LIST := test1_main.o 
 
